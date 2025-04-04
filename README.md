@@ -1,50 +1,44 @@
-# Expo App 👋
+# native-app
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![License](https://img.shields.io/badge/license-Unlicensed-blue.svg)
+![Language](https://img.shields.io/badge/language-TypeScript-blue.svg)
 
-## Get started
+Bienvenido al repositorio del proyecto **native-app**. Este proyecto está desarrollado principalmente en TypeScript.
 
-1. Install dependencies
+## Índice
 
-   ```bash
-   npm install
-   ```
+- [Descripción](#descripción)
+- [Características](#características)
+- [Detalles del Repositorio](#detalles-del-repositorio)
+- [Propietario](#propietario)
 
-2. Start the app
+## Descripción
 
-   ```bash
-    npx expo start
-   ```
+El proyecto **native-app** es una aplicación nativa desarrollada para probar nuevas tecnologías de desarrollo, en este caso móvil. Este proyecto se ha desarrollado utilizando tecnologías modernas y siguiendo el marco SOLID.
 
-In the output, you'll find options to open the app in a
+## Características
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **Lenguaje principal:** TypeScript (67.6%)
+- **Otros lenguajes:** JavaScript (30.1%), CSS (2.3%)
+- **Repositorio público:** Sí
+- **Permite forking:** Sí
+- **Soporte para discusiones:** No
+- **Soporte para descargas:** Sí
+- **Soporte para issues:** Sí
+- **Soporte para páginas:** No
+- **Soporte para proyectos:** Sí
+- **Soporte para wiki:** Sí
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Detalles del Repositorio
 
-## Get a fresh project
+- **URL del repositorio:** [S1lenceY/native-app](https://github.com/S1lenceY/native-app)
+- **Rama principal:** main
+- **Creado hace:** 4 días
+- **Tamaño del repositorio:** 296 KB
+- **Número de forks:** 0
+- **Número de estrellas:** 1
+- **Número de suscriptores:** 1
 
-When you're ready, run:
+## Propietario
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- **Propietario:** [S1lenceY](https://github.com/S1lenceY)
