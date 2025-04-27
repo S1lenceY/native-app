@@ -14,7 +14,7 @@ Bienvenido al repositorio del proyecto **native-app**. Este proyecto está desar
 
 ## Descripción
 
-El proyecto **native-app** es una aplicación nativa desarrollada para probar nuevas tecnologías de desarrollo, en este caso móvil. Este proyecto se ha desarrollado utilizando tecnologías modernas y siguiendo el marco SOLID.
+Mi proyecto **native-app** es una aplicación nativa desarrollada para probar nuevas tecnologías de desarrollo, en este caso móvil. Este proyecto se ha desarrollado utilizando tecnologías modernas y siguiendo el marco SOLID.
 
 ## Características
 
